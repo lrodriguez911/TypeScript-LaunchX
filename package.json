@@ -1,0 +1,21 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "practing typescript whit sherpa Jose Jesus Guzman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc --watch --preserveWatchOutput"
+  },
+  "keywords": [
+    "TypeScript",
+    "LaunchX",
+    "Microsoft"
+  ],
+  "author": "Lucas M Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "^4.0.0",
+    "typescript": "^4.9.4"
+  }
+}
